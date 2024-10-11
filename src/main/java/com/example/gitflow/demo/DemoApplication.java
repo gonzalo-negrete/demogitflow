@@ -3,6 +3,11 @@ package com.example.gitflow.demo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/*
+ * Clase principal que alberga el método main
+ *
+ * */
+
 @SpringBootApplication
 public class DemoApplication {
 
@@ -12,5 +17,7 @@ public class DemoApplication {
 
 		int i = 0;
 	}
+	
+	
 
 }
