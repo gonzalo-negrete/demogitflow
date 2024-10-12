@@ -4,13 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /*
- * Clase principal que alberga el mï¿½todo main
+ * Clase principal que alberga el método main
  *
  * */
-
- /**
-  * Hola, este es un ejemplo
-  */
 
 @SpringBootApplication
 public class DemoApplication {
