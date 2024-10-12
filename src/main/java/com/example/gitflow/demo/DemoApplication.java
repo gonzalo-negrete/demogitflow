@@ -4,7 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /*
- * Clase principal que alberga el m�todo main
+ * Clase principal del proyecto
+ * Contine método  main
+ * 
+ * 
+ * Clase principal que alberga el método main
  *
  * */
 
