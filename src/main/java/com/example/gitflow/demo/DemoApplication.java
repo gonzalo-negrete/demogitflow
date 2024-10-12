@@ -5,16 +5,23 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /*
  * Clase principal del proyecto
- * Contine m�todo  main
+ * Contine método  main
  * 
+ * 
+ * Clase principal que alberga el método main
+ *
  * */
-
 
 @SpringBootApplication
 public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
+		System.out.println("Hola, este es el commit de Alice");
+
+		int i = 0;
 	}
+	
+	
 
 }
